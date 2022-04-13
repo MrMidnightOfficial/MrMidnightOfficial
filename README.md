@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 
 
+
+
 ## Fav Langs
 [![Fav Lang](https://skillicons.dev/icons?i=ruby,cs,cpp,c,v,lua,python,java)](https://skillicons.dev)
 
@@ -28,7 +30,10 @@ Here are some ideas to get you started:
 I love to Program and Play Games.
 My Fav Food Is Donuts
 
-## Most Used Langs
+## Stats
+![Stat](https://github-stats-alpha.vercel.app/api/?username=AnimalStudioOfficial&cc=000&tc=fff&ic=fff&bc=000)
+
+### Most Used Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimalStudioOfficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
