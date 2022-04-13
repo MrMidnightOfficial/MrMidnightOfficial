@@ -20,7 +20,12 @@ Here are some ideas to get you started:
 
 
 
+## Respositorys
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=AnimalStudioOfficial&repo=Ava-Chatbot)](https://github.com/AnimalStudioOfficial/Ava-Chatbot)
+&nbsp; &nbsp;
 
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=VDonut&repo=VDonut)](https://github.com/VDonut/VDonut)
+&nbsp; &nbsp;
 
 
 ## Fav Langs
