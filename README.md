@@ -38,6 +38,9 @@ My Fav Food Is Donuts
 ## Stats
 ![Stat](https://github-stats-alpha.vercel.app/api/?username=AnimalStudioOfficial&cc=000&tc=fff&ic=fff&bc=000)
 
+### VDonut-PM
+![Lines of code](https://img.shields.io/tokei/lines/github/VDonut/VDonut-PM)
+
 ### Most Used Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimalStudioOfficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
