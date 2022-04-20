@@ -36,7 +36,7 @@ I love to Program and Play Games.
 My Fav Food Is Donuts
 
 ## Stats
-
+![Stat](https://github-stats-alpha.vercel.app/api/?username=AnimalStudioOfficial&cc=000&tc=fff&ic=fff&bc=000)
 
 ### VDonut-PM
 ![Lines of code](https://img.shields.io/tokei/lines/github/VDonut/VDonut-PM)
