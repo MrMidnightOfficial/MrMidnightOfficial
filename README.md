@@ -42,6 +42,7 @@ My Fav Food Is Donuts
 ![Lines of code](https://img.shields.io/tokei/lines/github/VDonut/VDonut-PM)
 
 ### Most Used Langs
+[![Metrics](https://metrics.lecoq.io/AnimalStudioOfficial?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&lines=1&languages.limit=100&languages.threshold=0%25&languages.colors=github&languages.aliases=V&languages.sections=most-used&languages.details=bytes-size%2C%20percentage&languages.indepth=true&languages.analysis.timeout=1&languages.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=1&lines.skipped=Ava-Chatbot&config.timezone=America%2FNew_York)
 [![Top Lanfgs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimalStudioOfficial&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimalStudioOfficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
