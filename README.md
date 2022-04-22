@@ -42,7 +42,8 @@ My Fav Food Is Donuts
 ![Lines of code](https://img.shields.io/tokei/lines/github/VDonut/VDonut-PM)
 
 ### Most Used Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimalStudioOfficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Lanfgs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimalStudioOfficial&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnimalStudioOfficial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 ## Baner
