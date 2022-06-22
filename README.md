@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ## Fav Langs
-[![Fav Lang](https://skillicons.dev/icons?i=ruby,cs,cpp,c,v,lua,python,java)](https://skillicons.dev)
+[![Fav Lang](https://skillicons.dev/icons?i=cpp,v,c,lua,ruby,cs,python,java)](https://skillicons.dev)
 
 ## About Me
 I love to Program and Play Games.
