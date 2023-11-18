@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-I love to Program and Play Games.
+I like to code :D
 
 
 ## Stats
