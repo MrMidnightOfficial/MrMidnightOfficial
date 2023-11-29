@@ -51,6 +51,6 @@ I like to code :D
 
 <!--
 ## Baner
-![](https://github.com/AnimalStudioOfficial/MrMidnightOfficial/blob/main/Untitled.png)`
+![](https://github.com/MrMidnightOfficial/MrMidnightOfficial/blob/main/Untitled.png)`
 -->
 
