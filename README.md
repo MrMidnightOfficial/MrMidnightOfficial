@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 😄 Pronouns: He/Him
+
 <!--
 **AnimalStudioOfficial/AnimalStudioOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -49,6 +51,6 @@ I like to code :D
 
 <!--
 ## Baner
-![](https://github.com/AnimalStudioOfficial/AnimalStudioOfficial/blob/main/Untitled.png)`
+![](https://github.com/AnimalStudioOfficial/MrMidnightOfficial/blob/main/Untitled.png)`
 -->
 
